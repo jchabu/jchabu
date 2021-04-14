@@ -1,9 +1,9 @@
 # Hi there 👋 soy Julián
 _______________________________________________________________________________________________________________
 
-## Actualmente soy un estudiante de Desarrollo de Aplicaciones Web ahora mismo haciendo practicas y el proyecto final.
+## Actualmente soy un estudiante de Desarrollo de Aplicaciones Web ahora mismo haciendo practicas y el proyecto final
 
-## 💪🏻 Me volveré Frontend Developer.
+## 💪🏻 Me volveré Frontend Developer
 
 **Actualmente estoy tratando de mejorar en los siguientes lenguajes:**
 - HTML
