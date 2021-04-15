@@ -1,4 +1,4 @@
-# Hi there 👋 soy Julián
+# Hi there 👋 im Julián
 _______________________________________________________________________________________________________________
 
 ## Actualmente soy un estudiante de Desarrollo de Aplicaciones Web ahora mismo haciendo practicas y el proyecto final
